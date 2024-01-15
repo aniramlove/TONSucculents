@@ -1,18 +1,18 @@
 # TON Tutorials
 
-### [01. Working with your first wallet](https://ton-community.github.io/tutorials/01-wallet)
+### [01. Working with your first wallet](https://aniramlove.github.io/tutorials/01-wallet)
 >
 > Create a wallet, fund it, initialize it, see in explorer, read/write to it with code
 
-[![01-wallet-npmton](https://github.com/ton-community/tutorials/actions/workflows/01-wallet-npmton.yml/badge.svg)](https://github.com/ton-community/tutorials/actions/workflows/01-wallet-npmton.yml) [![01-wallet-tonweb](https://github.com/ton-community/tutorials/actions/workflows/01-wallet-tonweb.yml/badge.svg)](https://github.com/ton-community/tutorials/actions/workflows/01-wallet-tonweb.yml)
+[![01-wallet-npmton](https://github.com/aniramlove/tutorials/actions/workflows/01-wallet-npmton.yml/badge.svg)](https://github.com/aniramlove/tutorials/actions/workflows/01-wallet-npmton.yml) [![01-wallet-tonweb](https://github.com/aniramlove/tutorials/actions/workflows/01-wallet-tonweb.yml/badge.svg)](https://github.com/aniramlove/tutorials/actions/workflows/01-wallet-tonweb.yml)
 
-### [02. Writing your first smart contract](https://ton-community.github.io/tutorials/02-contract)
+### [02. Writing your first smart contract](https://aniramlovegithub.io/tutorials/02-contract)
 >
 > Create a simple counter smart contract, build and deploy it, read/write to it with code
 
-[![02-contract](https://github.com/ton-community/tutorials/actions/workflows/02-contract.yml/badge.svg)](https://github.com/ton-community/tutorials/actions/workflows/02-contract.yml)
+[![02-contract](https://github.com/aniramlove/tutorials/actions/workflows/02-contract.yml/badge.svg)](https://github.com/aniramlove/tutorials/actions/workflows/02-contract.yml)
 
-### [03. Building your first web client](https://ton-community.github.io/tutorials/03-client)
+### [03. Building your first web client](https://aniramlove.github.io/tutorials/03-client)
 >
 > Create a simple client (TWA+web) that interacts with the counter smart contract
 
