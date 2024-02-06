@@ -27,7 +27,7 @@
 
 🤑 Эмиссия: 600 000 000 токенов. (Цифра конечна и изменению не подлежит!)
 📖Адрес корневого контракта: EQDaL2GpMlB2eddgMG-enJgRkayaisf21Wd8VgcqEqx-EPlP
-(tonscan.org, (https://tonscan.org/jetton/EQDaL2GpMlB2eddgMG-enJgRkayaisf21Wd8VgcqEqx-EPlP) ton.cx (https://ton.cx/address/EQDaL2GpMlB2eddgMG-enJgRkayaisf21Wd8VgcqEqx-EPlP))
+tonscan.org, (https://tonscan.org/jetton/EQDaL2GpMlB2eddgMG-enJgRkayaisf21Wd8VgcqEqx-EPlP) ton.cx (https://ton.cx/address/EQDaL2GpMlB2eddgMG-enJgRkayaisf21Wd8VgcqEqx-EPlP))
 🔩 Цена ICO: 0.00001 TON за 1 $SUCCS
 Объем ICO: 100 000 000
 📃 Исходный код контрактов:  (https://github.com/ton-blockchain/minter-contract)
